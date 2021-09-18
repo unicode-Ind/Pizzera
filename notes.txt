@@ -1,2 +1,5 @@
 1. Express is ....... (v2)
-2. 
+2. factory functions => pattern. Its is object creational pattern.
+3. Session library acts as middleware
+4. middleware of express => app.use
+5. Session nedd cookies to work
